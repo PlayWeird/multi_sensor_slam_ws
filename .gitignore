@@ -28,3 +28,6 @@ Thumbs.db
 
 # Core dumps
 core
+
+# Temporarily ignore calibration package until build issues are resolved
+src/direct_visual_lidar_calibration/
